@@ -1,0 +1,22 @@
+div{
+    border:1px solid black;
+    margin:20px ;/*拉開距離*/
+    text-align: center;/*將字置中*/
+    margin-top: 0px;
+    
+}
+#BoxBorder{/*id對應#*/
+    background-color: yellow;
+    border-style: solid;
+}
+#BoxContent{
+    padding-bottom: 120px;
+    background-color: white;
+    border:1px dashed black;
+}
+#BoxMargin{
+    border:1px dashed black;
+}
+#BoxPadding{
+    background-color: white;
+}
